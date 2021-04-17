@@ -12,12 +12,14 @@ campaign for the highest chance of success.
 
 ### Analysis of Outcomes Based on Launch Date
 For this analysis, I charted outcomes of theatre kickstarter campaigns by month launched, in order to get a better sense of how timing
-plays a role in campaign success. Looking at the graph, we can see that the month with the highest volume of successful campaigns is May. More generally, we can see the summer months typically have a higher volume of successful plays than other months. 
+plays a role in campaign success. [Looking at the graph](https://github.com/matthewprice-github/kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.PNG), we can 
+see that the month with the highest volume of successful campaigns is May. More generally, we can see the summer months typically have a higher volume of successful plays than other months. 
+
 
 ### Analysis of Outcomes Based on Goals
 For this analysis, I graphed outcomes of kickstarter campaigns against their goal amount, while filtering for plays ONLY. This helps  
 inform us what goal amounts typically see success (or failure) for plays, and if Louise's original $10,000 goal for her campaign 
-is an optimal target. [Looking at the graph](https://github.com/matthewprice-github/kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.PNG), we can see a rather mixed picture. It makes sense that goals with very low targets (less 
+is an optimal target. [Looking at the graph](https://github.com/matthewprice-github/kickstarter-analysis/blob/main/Outcomes_vs_Goals.PNG), we can see a rather mixed picture. It makes sense that goals with very low targets (less 
 than $1000) generally are quite successful in meeting those targets. Conversly, goals with very high targets (greater than $45K)
 are fair more likely to fail. 
 
