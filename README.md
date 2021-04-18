@@ -36,7 +36,7 @@ instead of hardcoding each cell.
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-One conclusiion I can draw is that the summer months seem to have the highest volume of projects launched, so there is more competition those months. However, it also appears that projects launched in summer months, particularly May, have a higher percent of their plays turn out successful. I would advise Louise that the summer (and optimally May) would be the best time to launch her campaign. 
+One conclusion I can draw is that the summer months seem to have the highest volume of projects launched, so there is more competition those months. However, it also appears that projects launched in summer months, particularly May, have a higher percent of their plays turn out successful. I would advise Louise that the summer (and optimally May) would be the best time to launch her campaign. 
 
 - What can you conclude about the Outcomes based on Goals?
 
