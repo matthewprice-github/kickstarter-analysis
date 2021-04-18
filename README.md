@@ -17,9 +17,7 @@ see that the month with the highest volume of successful campaigns is May. More 
 
 
 ### Analysis of Outcomes Based on Goals
-For this analysis, I graphed outcomes of kickstarter campaigns against their goal amount, while filtering for plays ONLY. This helps  
-inform us what goal amounts typically see success (or failure) for plays, and if Louise's original $10,000 goal for her campaign 
-is an optimal target. [Looking at the graph](https://github.com/matthewprice-github/kickstarter-analysis/blob/main/Outcomes_vs_Goals.PNG), we can see a rather mixed picture. It makes sense that goals with very low targets (less 
+For this analysis, I graphed outcomes of kickstarter campaigns against their goal amount, while filtering for plays ONLY. This helps inform us what goal amounts typically see success (or failure) for plays, and if Louise's original $10,000 goal for her campaign is an optimal target. [Looking at the graph](https://github.com/matthewprice-github/kickstarter-analysis/blob/main/Outcomes_vs_Goals.PNG), we can see a rather mixed picture. It makes sense that goals with very low targets (less 
 than $1000) generally are quite successful in meeting those targets. Conversly, goals with very high targets (greater than $45K)
 are fair more likely to fail. 
 
@@ -38,7 +36,7 @@ instead of hardcoding each cell.
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-I would advise Louise that the summer (and optimally May), would be the best time to launch her campaign. I could also tell Louise that there are a higher volume of theatre projects launched in the summer. 
+One conclusiion I can draw is that the summer months seem to have the highest volume of projects launched, so there is more competition those months. However, it also appears that projects launched in summer months, particularly May, have a higher percent of their plays turn out successful. I would advise Louise that the summer (and optimally May) would be the best time to launch her campaign. 
 
 - What can you conclude about the Outcomes based on Goals?
 
@@ -53,6 +51,6 @@ Was a show successful because it had the optimal launch date/goal amount? Or was
 
 - What are some other possible tables and/or graphs that we could create?
 
-I could see geography as an influencing factor in kickstart success. A graph that charted project outcomes by country could be interesting. Similarly, It could be interesting to see a table that had average donation amounts by country could also be interesting, it could help answer the question: who supports the arts the most?  
+I could see geography as an influencing factor in kickstarter success. A graph that charted project outcomes by country could be interesting. Similarly, It could be interesting to see a table that had average donation amounts by country could also be interesting, it could help answer the question: who supports the arts the most?  
 
-Something else I was wondering while doing the "Outcomes based on Launch Date" analysis was how we could account for duration of the kickstarter campaign. Did some projects fail simply because they didn't have a reasonable deadline? What is the average duration of a successful campaign? We could easily create another column that would give the duration of the campaign, given the launch date/deadline columns.  
+Something else I was wondering while doing the "Outcomes based on Launch Date" analysis was how we could account for duration of the kickstarter campaign. Did some projects fail simply because they didn't have a reasonable fundraising deadline? What is the average duration of a successful campaign? We could easily create another column that would give the duration of the campaign, taking the difference from the launch date and deadline columns.  
